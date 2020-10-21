@@ -15,14 +15,15 @@ public class JoystickRotate : MonoBehaviour, IDragHandler, IPointerUpHandler, IP
     {
         if (eventData.pointerCurrentRaycast.gameObject != null)
         {
-            if (eventData.pointerCurrentRaycast.gameObject.name == sd.name)
+            Xaxis = xAxis;
+            /*if (eventData.pointerCurrentRaycast.gameObject.name == sd.name)
             {
-                Xaxis = xAxis;
+                
             }
             else
             {
                 Xaxis = 0;
-            }
+            }*/
             pointerData = eventData;
         }
     }

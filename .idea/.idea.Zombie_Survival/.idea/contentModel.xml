@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\folom\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\folom\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Zombie_Survival.-1681855701.00" t="ExcludeRecursive" />
+    <e p="D:\MyPrograms\Zombie_Survival" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Project" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="GameManager" t="Include">
+              <e p="AIManager" t="Include">
+                <e p="ActiveStateDecision.cs" t="Include" />
+                <e p="AIHealth.cs" t="Include" />
+                <e p="AttackAction.cs" t="Include" />
+                <e p="AttackDecision.cs" t="Include" />
+                <e p="BaseAction.cs" t="Include" />
+                <e p="BotManager.cs" t="Include" />
+                <e p="ChaseAction.cs" t="Include" />
+                <e p="DeathAction.cs" t="Include" />
+                <e p="DeathDecision.cs" t="Include" />
+                <e p="Decision.cs" t="Include" />
+                <e p="EnemyStats.cs" t="Include" />
+                <e p="LookDecision.cs" t="Include" />
+                <e p="PatrolAction.cs" t="Include" />
+                <e p="ShellExplosion.cs" t="Include" />
+                <e p="State.cs" t="Include" />
+                <e p="StateController.cs" t="Include" />
+                <e p="Transition.cs" t="Include" />
+                <e p="VisibilityCompute.cs" t="Include" />
+              </e>
+              <e p="GameManager.cs" t="Include" />
+              <e p="LevelManager" t="Include">
+                <e p="GameTime.cs" t="Include" />
+                <e p="Health.cs" t="Include" />
+                <e p="LevelSettings.cs" t="Include" />
+              </e>
+              <e p="LoadManager" t="Include">
+                <e p="LoadAnimation.cs" t="Include" />
+              </e>
+              <e p="MazeGenerator(Plugin)" t="Include">
+                <e p="BasicMazeGenerator.cs" t="Include" />
+                <e p="DivisionMazeGenerator.cs" t="Include" />
+                <e p="MazeCell.cs" t="Include" />
+                <e p="MazeSpawner.cs" t="Include" />
+                <e p="OldestTreeMazeGenerator.cs" t="Include" />
+                <e p="RandomTreeMazeGenerator.cs" t="Include" />
+                <e p="RecursiveMazeGenerator.cs" t="Include" />
+                <e p="RecursiveTreeMazeGenerator.cs" t="Include" />
+                <e p="RollerBall.cs" t="Include" />
+                <e p="TreeMazeGenerator.cs" t="Include" />
+              </e>
+              <e p="NavMeshManager(Plugin)" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+                  <e p="NavMeshLinkEditor.cs" t="Include" />
+                  <e p="NavMeshModifierEditor.cs" t="Include" />
+                  <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+                  <e p="NavMeshSurfaceEditor.cs" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="NavMeshLink.cs" t="Include" />
+                  <e p="NavMeshModifier.cs" t="Include" />
+                  <e p="NavMeshModifierVolume.cs" t="Include" />
+                  <e p="NavMeshSurface.cs" t="Include" />
+                </e>
+              </e>
+              <e p="PackManager" t="Include">
+                <e p="ITakePack.cs" t="Include" />
+                <e p="TakeAmmo.cs" t="Include" />
+                <e p="TakeMedKid.cs" t="Include" />
+              </e>
+              <e p="PlayerManager" t="Include">
+                <e p="GameStats.cs" t="Include" />
+                <e p="PlayerAutoAim.cs" t="Include" />
+                <e p="PlayerHealth.cs" t="Include" />
+                <e p="PlayerPosition.cs" t="Include" />
+                <e p="Plugin" t="Include">
+                  <e p="Bullet" t="Include">
+                    <e p="BulletScript.cs" t="Include" />
+                  </e>
+                  <e p="Casings_&amp;_Projectiles" t="Include">
+                    <e p="CasingScript.cs" t="Include" />
+                  </e>
+                  <e p="Explosions_&amp;_Impacts" t="Include">
+                    <e p="ExplosionScript.cs" t="Include" />
+                    <e p="ImpactScript.cs" t="Include" />
+                  </e>
+                  <e p="FPSController" t="Include">
+                    <e p="FpsControllerLPFP.cs" t="Include" />
+                  </e>
+                  <e p="Misc" t="Include">
+                    <e p="LookAtCamera.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="RotateElement.cs" t="Include" />
+                <e p="WeaponManager" t="Include">
+                  <e p="AutomaticGun.cs" t="Include" />
+                  <e p="ButtonController.cs" t="Include" />
+                  <e p="ChangeWeaponController.cs" t="Include" />
+                  <e p="HandGun.cs" t="Include" />
+                  <e p="ShotController.cs" t="Include" />
+                  <e p="Weapon.cs" t="Include" />
+                  <e p="WeaponController.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="PoolObjects" t="Include">
+              <e p="Pool.cs" t="Include" />
+              <e p="PoolConfig.cs" t="Include" />
+              <e p="PoolManager.cs" t="Include" />
+              <e p="PoolObject.cs" t="Include" />
+              <e p="PoolSetup.cs" t="Include" />
+              <e p="ReturnToPool.cs" t="Include" />
+            </e>
+            <e p="UIManager" t="Include">
+              <e p="CarouselLevel" t="Include">
+                <e p="CarouselController.cs" t="Include" />
+                <e p="CarouselElement.cs" t="Include" />
+                <e p="ICarouselElement.cs" t="Include" />
+              </e>
+              <e p="JoyStick" t="Include">
+                <e p="AxisController.cs" t="Include" />
+                <e p="JoystickMove.cs" t="Include" />
+                <e p="JoystickRotate.cs" t="Include" />
+              </e>
+              <e p="UIPanels" t="Include">
+                <e p="EndGamePanel.cs" t="Include" />
+                <e p="LosePanel.cs" t="Include" />
+                <e p="Panel.cs" t="Include" />
+                <e p="SettingsPanel.cs" t="Include" />
+                <e p="UIManager.cs" t="Include" />
+                <e p="WinPanel.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Template(Plugin)" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Advanced" t="Include">
+              <e p="NURotator.cs" t="Include" />
+              <e p="StaticEventHelper.cs" t="Include" />
+            </e>
+            <e p="Basic" t="Include">
+              <e p="CustomLevelLoader.cs" t="Include" />
+              <e p="PlayerPrefsHelper.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="Helpers" t="Include">
+                <e p="EventsHelper.cs" t="Include" />
+              </e>
+            </e>
+            <e p="XMLReader" t="Include">
+              <e p="XMLNode.cs" t="Include" />
+              <e p="XMLNodeList.cs" t="Include" />
+              <e p="XMLParser.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Zombie_Survival.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
