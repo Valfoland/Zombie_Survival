@@ -1,0 +1,3273 @@
+[
+    {
+        "permitted_versions": [
+            "4.6.5"
+        ],
+         "mandatory": false,
+         "old_names": [
+            "AMEditor",
+             "AM Editor 220 Bug 1248 Fix"
+        ],
+         "depends": [],
+         "name": "AM Editor",
+         "build_types": [],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/am-editor/tree/master",
+         "files": [
+            {
+                "hash": "8f83ec53777cba71077864b0fe573bc8",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.AAPSettingsAPI.cs"
+            },
+             {
+                "hash": "db5e30f3f81acab4d0ee05b815dd475a",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.AMLocalizationAPI.cs"
+            },
+             {
+                "hash": "40efc209bc08e4d1eb53be816a1cb3c4",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.API.cs"
+            },
+             {
+                "hash": "846f103cc52621ff58ee9352fd5620d8",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ActualPlugin.cs"
+            },
+             {
+                "hash": "7065d525a010c1916d5c54bb29597b64",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.AppInfoAPI.cs"
+            },
+             {
+                "hash": "26d876802bc795d5e155d61f5e809930",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.AssetBundleAPI.cs"
+            },
+             {
+                "hash": "f1ef816afbc8cdaddbd063e95af77ec0",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.BackupAPI.cs"
+            },
+             {
+                "hash": "888e7f92a534024ec19114ddee07d081",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ConflictAPI.cs"
+            },
+             {
+                "hash": "70affc10ed41cbbee44212687d810910",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.CustomCodeCollector.cs"
+            },
+             {
+                "hash": "15cb3100e74e38c8af6a8f605813b38b",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.CustomPostProcessBuild.cs"
+            },
+             {
+                "hash": "8eba5321d212bda546714b53cd742b43",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.CustomQualitySetupAPI.cs"
+            },
+             {
+                "hash": "be69702b98d893c0c5fd52ebd6a96c85",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.CustomResourceManagerAPI.cs"
+            },
+             {
+                "hash": "a9dd558eea28ecfdf5390da510e1861c",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.DefineController.cs"
+            },
+             {
+                "hash": "4b3e7e8b95e1de646add6dc533d027b9",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ExternalPlugin.cs"
+            },
+             {
+                "hash": "ca159f1e6e46c168fa1b7f2d8ab8a787",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ExternalPluginGUI.cs"
+            },
+             {
+                "hash": "40abbe4006ed0996ce4bd1639c799013",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.FileStorage.cs"
+            },
+             {
+                "hash": "8a331943a60f3f049e1396beca58f078",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Git.cs"
+            },
+             {
+                "hash": "b1b9ec3252e5ec46dcd031280c3ac9f7",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.GitAccount.cs"
+            },
+             {
+                "hash": "103654ed488a7d7e04285ce388a107c9",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.HelpAPI.cs"
+            },
+             {
+                "hash": "2833e3336d69f8be7411c0d9e1f0092f",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.JSON.cs"
+            },
+             {
+                "hash": "1f395ec9f1334c8ca6e3e3e6d4dd0383",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.LocalRepositoryAPI.cs"
+            },
+             {
+                "hash": "7e31d3cbe4e340c7c8573b4988827544",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Log.cs"
+            },
+             {
+                "hash": "2829a9e45f238651f8c8fab04e0caebc",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.cs"
+            },
+             {
+                "hash": "f52fc53a9dcb04bd840a72f7e1961598",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.MenuAPI.cs"
+            },
+             {
+                "hash": "3930f04d2ae700f4bc10e9541ae094f4",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Network.cs"
+            },
+             {
+                "hash": "5f6cc60ad3928bc935d064485b87a315",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Plugin.cs"
+            },
+             {
+                "hash": "e1cdb753cea3192a9bba42fd1b257b64",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.PluginDepend.cs"
+            },
+             {
+                "hash": "ce8856c760998d43701f345433901a82",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.PluginGUI.cs"
+            },
+             {
+                "hash": "b678f557afc6965031ccf89011a29140",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.PopupError.cs"
+            },
+             {
+                "hash": "b6356e002aecd791d5b713562b47b5d4",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ProjectFile.cs"
+            },
+             {
+                "hash": "7ddef999eaf9368c1341a230c8650eb7",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ProjectFolder.cs"
+            },
+             {
+                "hash": "dee66c25e798e217be3fe9ef0669f716",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.StartProject.cs"
+            },
+             {
+                "hash": "e5ac06774ff299c5e18f02863b997d57",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.System.cs"
+            },
+             {
+                "hash": "daf4f21e5fecc424e691cd5b9b705af6",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.UI.AMDisplayDialog.cs"
+            },
+             {
+                "hash": "add3660e6e42588936a3d6421fc7bf71",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.UI.AMProgressBar.cs"
+            },
+             {
+                "hash": "628e037943be856cb3ede165b95254df",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.UnityCompileHandler.cs"
+            },
+             {
+                "hash": "ae0c654996acc662a425d42191357dbe",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Window.About.cs"
+            },
+             {
+                "hash": "00c5ce132be8b30100c4730d6f3d8172",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Window.Auth.cs"
+            },
+             {
+                "hash": "7744e25eceb330d5a7ca3595c46d6597",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Window.CreateConfigFile.cs"
+            },
+             {
+                "hash": "2a8331f394e1fb62d8058e82980c698d",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Window.CreatePublicConfig.cs"
+            },
+             {
+                "hash": "ebe1eec60f0d610444e68ae74325baa2",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Window.Main.cs"
+            },
+             {
+                "hash": "21bb1a360de09f569f1467e62b21cede",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/cqs_defaults.json"
+            },
+             {
+                "hash": "46159889e7a05c1e9e3403942f2512a2",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_cs_file.png"
+            },
+             {
+                "hash": "2fd502017e8707dcb7bc4ac00b421743",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_error.png"
+            },
+             {
+                "hash": "7c6fa0964eab35ec648bc2e4d979db2e",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_fixme.png"
+            },
+             {
+                "hash": "13d4e7edb9b9e1e7232bd121604d030a",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_folder.png"
+            },
+             {
+                "hash": "b4339aade70dd835bff39b7cb650c56f",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_gitlab.png"
+            },
+             {
+                "hash": "b41a35683b5268aa717935410ebec54c",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_hide.png"
+            },
+             {
+                "hash": "61a7b235b2eedac1c0acd7d7cacf2273",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_info.png"
+            },
+             {
+                "hash": "e74a633f29cf6df8b0092547ec803615",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_js_file.png"
+            },
+             {
+                "hash": "33c9a8cf11bb6cbb3ab61ed591309062",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_list.png"
+            },
+             {
+                "hash": "77dc67ddd807347ed8e22e6264bcf5ea",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_logo.png"
+            },
+             {
+                "hash": "1beea0594f34b577236c9aec8eada2f2",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_ok.png"
+            },
+             {
+                "hash": "793d00c1784797ef23e7f39ca1007f7e",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_other_file.png"
+            },
+             {
+                "hash": "9d25a1cdb3c40b7b97c879aa91432f71",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_plist_file.png"
+            },
+             {
+                "hash": "f060d5cf8ea05326cabfb8af6b8d35b1",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_prefab.png"
+            },
+             {
+                "hash": "7eab920a55a79c794dd7812ef82660f1",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_scene.png"
+            },
+             {
+                "hash": "4cea9a15fc624aa66650815d4ca9c54d",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_search.png"
+            },
+             {
+                "hash": "7b5171face6bee8f29e205c53b2d0cbe",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_show.png"
+            },
+             {
+                "hash": "3663b038c704f3838f02b03a6ee4c0bb",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_text_file.png"
+            },
+             {
+                "hash": "35406e7adb71399226167f2d857de390",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_unity_logo.png"
+            },
+             {
+                "hash": "29f65f41a8c984895b28d4022a138321",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/am_editor_warn.png"
+            },
+             {
+                "hash": "f91e6fbc2f539620e1438ea45a085391",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/am_editor_down_arrow.png"
+            },
+             {
+                "hash": "1f0deb39a155b4b9012687a40900db0b",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/am_editor_selector.png"
+            },
+             {
+                "hash": "25d43b259b7442b5f1ece90334962bf2",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/am_editor_up_arrow.png"
+            },
+             {
+                "hash": "d95c0af2eccf7043710306659835a69c",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_about.png"
+            },
+             {
+                "hash": "4f0a959ea50d5ed5d1d3813f415583f4",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_add.png"
+            },
+             {
+                "hash": "ecfd91b7cc108e34a2be739d51d941cf",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_back.png"
+            },
+             {
+                "hash": "3c875f0c9655cbd8b543266944052103",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_close.png"
+            },
+             {
+                "hash": "207f4dd84745434d45d96c1aec557d5b",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_delete.png"
+            },
+             {
+                "hash": "a81299a0e305d550060019f29bf9112d",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_download.png"
+            },
+             {
+                "hash": "eec98bdedb0d220fdd85f0463c7dd74f",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_edit.png"
+            },
+             {
+                "hash": "ce60ba7770a92d7f836104662daa2510",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_example.png"
+            },
+             {
+                "hash": "71d7dfb002e3956f1f758c10c96d4b56",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_expand_off.png"
+            },
+             {
+                "hash": "1265def3a6157c0961fbe0f00b532835",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_expand_on.png"
+            },
+             {
+                "hash": "b7691a906036b19ad630ca9e90327d50",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_logout.png"
+            },
+             {
+                "hash": "6e4eab777514113b766cf9491b44030d",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_next.png"
+            },
+             {
+                "hash": "8cc8f321551d9151f5ec374ddec9e812",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_open.png"
+            },
+             {
+                "hash": "2cd53f7130efc337929a5d57543e5e55",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_save.png"
+            },
+             {
+                "hash": "66bc5fe1ab1fbaebcf0f59db385ed67c",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/compact/am_editor_update.png"
+            },
+             {
+                "hash": "7bbca4eaf17c7ac33abe2b2a345bc35f",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/progress/am_editor_progress_0.png"
+            },
+             {
+                "hash": "beb103f0b6b1042060aee8732cc83cd4",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/progress/am_editor_progress_1.png"
+            },
+             {
+                "hash": "88988c63cc31267aec0cb9e82a07fc55",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/progress/am_editor_progress_2.png"
+            },
+             {
+                "hash": "eff21bdf5ead2bc8c64ba3a8adc5dd6d",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/progress/am_editor_progress_3.png"
+            },
+             {
+                "hash": "06c0f65d3760716034cbf758f5f6c0d2",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/progress/am_editor_progress_4.png"
+            },
+             {
+                "hash": "6db24fad349ee2650beec7cbb3404850",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/progress/am_editor_progress_5.png"
+            },
+             {
+                "hash": "35e6cfaf3c3079993cbe74ebbe61f1c0",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/progress/am_editor_progress_6.png"
+            },
+             {
+                "hash": "fa1aaabf94dbde4e18b1da84f963e44d",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/free/progress/am_editor_progress_7.png"
+            },
+             {
+                "hash": "3cb3596040e9a4c3321126f09deebf5d",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/am_editor_down_arrow.png"
+            },
+             {
+                "hash": "92a65e1592931b0ea34fe9f7415a67b0",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/am_editor_selector.png"
+            },
+             {
+                "hash": "fbf746c4ad44d18f9fa07cad847ffcbb",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/am_editor_up_arrow.png"
+            },
+             {
+                "hash": "e1dd7c6588aa205dcdf78a6125b40d89",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_about.png"
+            },
+             {
+                "hash": "6b0164a70384748fc93688929e66380d",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_add.png"
+            },
+             {
+                "hash": "24bc56b3f9a0d7b291a2c2fb244fc670",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_back.png"
+            },
+             {
+                "hash": "33e0fb324132133cfcfa354f55cb5c94",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_close.png"
+            },
+             {
+                "hash": "9c66b9560e0d64b64c1601cd55aab972",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_delete.png"
+            },
+             {
+                "hash": "fc60811d0038a228f3e141bddd28e18c",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_download.png"
+            },
+             {
+                "hash": "11ff0fbefcd2c0a911c3984849d43bb3",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_edit.png"
+            },
+             {
+                "hash": "7676de1213f672b401921e75cc28cb6b",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_example.png"
+            },
+             {
+                "hash": "c3c0e2c9ae8f3d40b84c6f557afd5ce8",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_expand_off.png"
+            },
+             {
+                "hash": "598f8bba41813817cca79524b03db29e",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_expand_on.png"
+            },
+             {
+                "hash": "642ef7a61a786de10e70049b73df976d",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_logout.png"
+            },
+             {
+                "hash": "8c395679950c13410abfb5dd50cb0f0b",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_next.png"
+            },
+             {
+                "hash": "1b82c5533a5774a0c9acbeac0d119a91",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_open.png"
+            },
+             {
+                "hash": "52b6c07171326f095f8c3c8bb1af92ac",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_save.png"
+            },
+             {
+                "hash": "8b69655f0cdae4b27cb3075ccc369a97",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/compact/am_editor_update.png"
+            },
+             {
+                "hash": "f4bba6e20117eda3a0063bc581d3b7f8",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/progress/am_editor_progress_0.png"
+            },
+             {
+                "hash": "1f33e01c42d7276032b0dde7c2e49e9a",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/progress/am_editor_progress_1.png"
+            },
+             {
+                "hash": "702951f28582add56410a85f02b558d0",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/progress/am_editor_progress_2.png"
+            },
+             {
+                "hash": "a8c519b1896428f8273b91212350c093",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/progress/am_editor_progress_3.png"
+            },
+             {
+                "hash": "b4cc733a26c41bb6c6899c72b03f3bab",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/progress/am_editor_progress_4.png"
+            },
+             {
+                "hash": "5d19800d44c337573da5bd0c2aa23e79",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/progress/am_editor_progress_5.png"
+            },
+             {
+                "hash": "9a59f5337ea9f8807098521a964ccf86",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/progress/am_editor_progress_6.png"
+            },
+             {
+                "hash": "8ca9f69b94c0c6a6990787c16cdb61de",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/src/pro/progress/am_editor_progress_7.png"
+            },
+             {
+                "hash": "f4193c07097a9e3ac92aa26bb6b16e89",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/Plugins/Editor/AMEditor/AMEditorMail.dll"
+            },
+             {
+                "hash": "91d6c94f3ef385e7c0ab5c27dd0c2084",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/Plugins/Editor/AMEditor/Ionic.Zip.Unity.dll"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/am_editor_config.txt"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMJSON_AMEditor.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMGitIntegration/src/GIT_ForWinRT.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMGitIntegration/src/GIT_JSONTemplates.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMThread.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorUtils/src/AMEditorJSONObject.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.MenuBuildType.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.BuildTypeAPI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMGitIntegration/src/GitInt.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.PluginsWindow.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/santa_frame_1.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/santa_frame_2.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/santa_frame_3.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/santa_frame_4.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/snow.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/snowman_frame_1.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/snowman_frame_2.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/snowman_frame_3.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/snowman_frame_4.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/tree_frame_1.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/tree_frame_2.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/xmass/tree_frame_3.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorUtils/src/GitInt.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ViewTypeAPI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.MenuAbout.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.MenuLanguage.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.MenuLocalRepository.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.MenuPluginsType.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.MenuRestoreDefaultSettings.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.MenuViewType.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditorBackupAPI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditorConflictAPI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditorFileStorage.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditorLog.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditorPopupError.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditorSystem.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/WindowAMEditor.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/WindowCreateConfigFile.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/WindowCreatePublicConfig.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/WindowAMEditorChangeLog.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_config_file_icon.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_config_folder_icon.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_check.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_update.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/am_gitlab.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/list.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/about.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/add.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/back.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/close.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/delete.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/download.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/edit.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/example.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/expand_off.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/expand_on.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/logout.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/next.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/open.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/save.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/free/update.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/about.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/add.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/back.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/close.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/delete.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/download.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/edit.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/example.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/expand_off.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/expand_on.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/logout.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/next.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/open.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/save.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/compact/pro/update.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/free/progress_0.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/free/progress_1.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/free/progress_2.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/free/progress_3.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/free/progress_4.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/free/progress_5.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/free/progress_6.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/free/progress_7.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/pro/progress_0.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/pro/progress_1.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/pro/progress_2.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/pro/progress_3.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/pro/progress_4.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/pro/progress_5.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/pro/progress_6.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/progress/pro/progress_7.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.AuthWindow.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.AccountGit.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorUtils/src/AMEditorFiles.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorUtils/src/AMEditorGit.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorUtils/src/AMEditorJSON.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorUtils/src/AMEditorNetwork.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_file_icon.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_folder_icon.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/Editor/AMEditorMail.dll"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/Editor/Ionic.Zip.Unity.dll"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.AMThread.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.CloseButtonPopup.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_close.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_cs_file.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_error.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_fixme.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_folder.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_gitlab.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_hide.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_info.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_js_file.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_list.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_logo.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_ok.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_other_file.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_plist_file.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_prefab.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_scene.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_search.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_show.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_text_file.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/am_editor_warn.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/am_editor_down_arrow.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/am_editor_selector.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/am_editor_up_arrow.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_about.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_add.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_back.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_close.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_delete.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_download.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_edit.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_example.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_expand_off.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_expand_on.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_logout.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_next.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_open.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_save.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/compact/am_editor_update.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/progress/am_editor_progress_0.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/progress/am_editor_progress_1.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/progress/am_editor_progress_2.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/progress/am_editor_progress_3.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/progress/am_editor_progress_4.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/progress/am_editor_progress_5.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/progress/am_editor_progress_6.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/free/progress/am_editor_progress_7.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/am_editor_down_arrow.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/am_editor_selector.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/am_editor_up_arrow.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_about.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_add.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_back.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_close.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_delete.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_download.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_edit.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_example.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_expand_off.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_expand_on.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_logout.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_next.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_open.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_save.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/compact/am_editor_update.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/progress/am_editor_progress_0.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/progress/am_editor_progress_1.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/progress/am_editor_progress_2.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/progress/am_editor_progress_3.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/progress/am_editor_progress_4.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/progress/am_editor_progress_5.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/progress/am_editor_progress_6.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Resources/AMEditor/pro/progress/am_editor_progress_7.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Asset.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ActualVersionPlugins.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.GUIExternalPlugin.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.GUIPlugin.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.LanguageAPI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.LocalRepository.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.AssetBundles.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.Help.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.Language.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.LocalRepository.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.PluginsType.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.RestoreDefaultSettings.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.SetMenuItemMarks.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.Menu.ViewType.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.PluginsTypeAPI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditor/AMEditor.ViewAPI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/DLC.API.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/DLC.GUIContent.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/3/header_background_blank.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/DLC.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/header_background.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/santa_frame_1.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/santa_frame_2.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/santa_frame_3.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/santa_frame_4.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/snow.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/snowman_frame_1.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/snowman_frame_2.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/snowman_frame_3.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/snowman_frame_4.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/tree_frame_1.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/tree_frame_2.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/12/tree_frame_3.gif"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/2/header_background.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/2/header_image.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/3/header_background.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/3/header_background_left.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/3/header_background_right.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AMEditorDLC/src/3/header_image.png"
+            }
+        ],
+         "display_type": "none",
+         "version": "4.6.5"
+    },
+     {
+        "permitted_versions": [
+            "11.2.23"
+        ],
+         "mandatory": true,
+         "old_names": [
+            "CustomCode"
+        ],
+         "depends": [
+            {
+                "mod": "=",
+                 "name": "AM Events",
+                 "version": "4.13.15"
+            },
+             {
+                "mod": "=",
+                 "name": "AM Configs Parser",
+                 "version": "4.2.9"
+            },
+             {
+                "mod": "=",
+                 "name": "AnalytiAll",
+                 "version": "4.3.23"
+            },
+             {
+                "mod": "=",
+                 "name": "AM Logger",
+                 "version": "1.8.7"
+            },
+             {
+                "mod": "=",
+                 "name": "AM Utils",
+                 "version": "2.0.6"
+            },
+             {
+                "mod": "=",
+                 "name": "Custom Quality Setup",
+                 "version": "1.1.3"
+            },
+             {
+                "mod": "=",
+                 "name": "Custom Resources Manager",
+                 "version": "1.12.18"
+            }
+        ],
+         "name": "Custom Code",
+         "build_types": [
+            "standard"
+        ],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/custom-code/tree/master",
+         "files": [],
+         "display_type": "minimal",
+         "version": "11.2.23"
+    },
+     {
+        "permitted_versions": [
+            "4.13.15"
+        ],
+         "mandatory": true,
+         "old_names": [
+            "AMEvents"
+        ],
+         "depends": [
+            {
+                "mod": ">=",
+                 "name": "AM Logger",
+                 "version": "1.8.7"
+            },
+             {
+                "mod": ">=",
+                 "name": "AM Utils",
+                 "version": "2.0.6"
+            },
+             {
+                "mod": ">=",
+                 "name": "AM Configs Parser",
+                 "version": "4.2.8"
+            }
+        ],
+         "name": "AM Events",
+         "build_types": [
+            "standard"
+        ],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/am-events/tree/master",
+         "files": [
+            {
+                "hash": "cec8ec2609ff4a2f328ac1cae1de1ccb",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/AMEvents.prefab"
+            },
+             {
+                "hash": "61a2bcdbf4713ece50b699ac018d6219",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/Resources/CustomCode/AMEvents.cs"
+            },
+             {
+                "hash": "0c02e1726624248ea93db256dfeb121d",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/Resources/CustomCode/AMEventsInspectorGUI.cs"
+            },
+             {
+                "hash": "1c4e746609e96e9c5bd3e192f11798b6",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/Ad/AMEvents.Ad.cs"
+            },
+             {
+                "hash": "e99faf565861a1d266fc391350a13e4b",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/Ad/AMEvents.PauseController.cs"
+            },
+             {
+                "hash": "be02b850eff4b25fffd90505b64ed38c",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/Internet/AMEvents.Internet.cs"
+            },
+             {
+                "hash": "5e23a3fdba2b3ef4b50aa335306d7248",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/AMEvents.AndroidBridge.cs"
+            },
+             {
+                "hash": "24cb313fbbeb5fc3762fc1eca98354d8",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/AMEvents.MacBridge.cs"
+            },
+             {
+                "hash": "7ec11a341b5e2054dfa8b971dd694a5c",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/AMEvents.MockBridge.cs"
+            },
+             {
+                "hash": "c861fb79a8b2e4e39a9b779bfa912f85",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/AMEvents.NativeBridge.cs"
+            },
+             {
+                "hash": "70cd8fe8f337d1f9e0984344123db327",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/AMEvents.UWPBridge.cs"
+            },
+             {
+                "hash": "1509c7b9d3f281da87297d8477e707d0",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/AMEvents.iOSBridge.cs"
+            },
+             {
+                "hash": "9c5c0f10659aa8c9ff1e7f12afc2dff2",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/AMEvents.tvOSBridge.cs"
+            },
+             {
+                "hash": "d5db895fc2ce32c22317b55bcf22ca79",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/Policy/AMEvents.Policy.cs"
+            },
+             {
+                "hash": "933e9c9cd6284315b7ef1cedafa0f47f",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/Sharing/AMEvents.Sharing.cs"
+            },
+             {
+                "hash": "8b3d5ceecb50479e14980f5663e12a9c",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/SocialAPI/AMEvents.AMSocialAPI.cs"
+            },
+             {
+                "hash": "3dc8c8373665d3d6bddfede75494f11b",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/SocialAPI/AMEvents.SocialAPI.FB.cs"
+            },
+             {
+                "hash": "bfdf3de4a88f4311e755f48e5205af0b",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/SocialAPI/AMEvents.SocialAPI.VK.cs"
+            },
+             {
+                "hash": "c15a3553a5ffb50abaafaf65ff34bf82",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/UI/AMEvents.UI.Menu.cs"
+            },
+             {
+                "hash": "68a7c0dc5858dcb0d35b7130ee3f303f",
+                 "parameters": [],
+                 "name": "Assets/Plugins/GDPRControllerOSX.bundle/Contents/Info.plist"
+            },
+             {
+                "hash": "cbf8f9a45968d38736085c2b484f86ed",
+                 "parameters": [],
+                 "name": "Assets/Plugins/GDPRControllerOSX.bundle/Contents/MacOS/GDPRControllerOSXBundle"
+            },
+             {
+                "hash": "67ab9dbe89e66b1e265f515eebe35cc2",
+                 "parameters": [],
+                 "name": "Assets/Plugins/GDPRControllerOSX.bundle/Contents/Resources/GDPRController.bundle/gdpr_icon.png"
+            },
+             {
+                "hash": "d7c7ad3bf468d8175b7210cb2be8f2a7",
+                 "parameters": [],
+                 "name": "Assets/Plugins/GDPRControllerOSX.bundle/Contents/_CodeSignature/CodeResources"
+            },
+             {
+                "hash": "9873037f34c6616e68367da281002766",
+                 "parameters": [],
+                 "name": "Assets/Plugins/iOS/libAMInterstitial.a"
+            },
+             {
+                "hash": "df200e678669045ade76ab0e833ebb20",
+                 "parameters": [],
+                 "name": "Assets/Plugins/iOS/libAMNetworkReachability.a"
+            },
+             {
+                "hash": "a91cb712801c47ada5c57b77ec407509",
+                 "parameters": [],
+                 "name": "Assets/Plugins/iOS/libAMSharing.a"
+            },
+             {
+                "hash": "78618dcc85852e876db26e9b21481d98",
+                 "parameters": [],
+                 "name": "Assets/Plugins/iOS/libGDPRController.a"
+            },
+             {
+                "hash": "9873037f34c6616e68367da281002766",
+                 "parameters": [],
+                 "name": "Assets/Plugins/tvOS/libAMInterstitial.a"
+            },
+             {
+                "hash": "fe49e3871736b19c096c677ddb5aac6f",
+                 "parameters": [],
+                 "name": "Assets/Plugins/tvOS/libGDPRController.a"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/AMMob.bundle/Contents/Info.plist"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/AMMob.bundle/Contents/MacOS/AMMob"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/AMEvents/AMMobInterstitialGameObject.prefab"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/AMEvents.AMSocialAPI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/AMEvents.NativeBridge.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/AMEvents.SocialAPI.FB.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/AMEvents.SocialAPI.VK.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/AndroidBridge.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/EmptyBridge.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/INativeBridge.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/MacBridge.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/MockBridge.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/iOSBridge.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/NativeBridge/tvOSBridge.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/UITest/UITest.Menu.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/WSA/AdsLibAM.dll"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/Resources/mock_cross.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/Resources/am_events_mock_cross.png"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/tvOS/libAMNetworkReachability.a"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/tvOS/libAMSharing.a"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMEvents/src/DefaultFakeUpdate.cs"
+            }
+        ],
+         "display_type": "extended",
+         "version": "4.13.15"
+    },
+     {
+        "permitted_versions": [
+            "4.2.9"
+        ],
+         "mandatory": false,
+         "old_names": [
+            "AMConfigsParser"
+        ],
+         "depends": [
+            {
+                "mod": ">=",
+                 "name": "AM Logger",
+                 "version": "1.8.3"
+            },
+             {
+                "mod": ">=",
+                 "name": "AM Utils",
+                 "version": "2.0.6"
+            }
+        ],
+         "name": "AM Configs Parser",
+         "build_types": [
+            "standard"
+        ],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/am-configs-parser/tree/master",
+         "files": [
+            {
+                "hash": "4c755f90f053728b72b6fa609b664cfa",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMConfigsParser/AMBuildParams.cs"
+            },
+             {
+                "hash": "c111739df8dce2ffbb7288b1764e3fc5",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMConfigsParser/AMConfigsParser.prefab"
+            },
+             {
+                "hash": "43ee879937d84cc248f0f7ec1d121360",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMConfigsParser/AMParseJsonConfig.cs"
+            },
+             {
+                "hash": "c3737a5dc3a9081a78f950844862c5c2",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMConfigsParser/AMProjectInfo.cs"
+            },
+             {
+                "hash": "88246c958940f66a3030ff3c7d9e1f0f",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMConfigsParser/sceneAMConfigParser.unity"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMConfigsParser/AMVectorTemplates.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMConfigsParser/AMJSONTemplates.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMConfigsParser/AMJSONObject.cs"
+            }
+        ],
+         "display_type": "extended",
+         "version": "4.2.9"
+    },
+     {
+        "permitted_versions": [
+            "4.3.23"
+        ],
+         "mandatory": false,
+         "old_names": [
+            "AMAnalytics",
+             "AM Analytics"
+        ],
+         "depends": [
+            {
+                "mod": ">=",
+                 "name": "AM Logger",
+                 "version": "1.8.7"
+            },
+             {
+                "mod": ">=",
+                 "name": "AM Utils",
+                 "version": "2.0.6"
+            },
+             {
+                "mod": ">=",
+                 "name": "AM Configs Parser",
+                 "version": "4.2.9"
+            }
+        ],
+         "name": "AnalytiAll",
+         "build_types": [
+            "standard"
+        ],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/analytiall/tree/master",
+         "files": [
+            {
+                "hash": "7d2c5af80cb18f96e0c7ff2fd9ec8846",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/AnalytiAll.prefab"
+            },
+             {
+                "hash": "0314840fc51b443a9b15963c58460b11",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/Resources/CustomCode/EventManager.cs"
+            },
+             {
+                "hash": "901c32946bda6b3554924ff12c6f4e70",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/Resources/CustomCode/EventManagerInspectorGUI.cs"
+            },
+             {
+                "hash": "46ef04d3a333a1a5422389f16efbfe6e",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeBridge/AnalytiAll.AndroidBridge.cs"
+            },
+             {
+                "hash": "f06f16a02d9bdc5852299f6bb3619778",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeBridge/AnalytiAll.MacBridge.cs"
+            },
+             {
+                "hash": "e6b3b331d0e897329970490f624e936b",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeBridge/AnalytiAll.MockBridge.cs"
+            },
+             {
+                "hash": "caf660784ddfe3e9954d440f0c84d4c8",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeBridge/AnalytiAll.NativeBridge.cs"
+            },
+             {
+                "hash": "752883dbb2093baf739def650c98bcab",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeBridge/AnalytiAll.UWPBridge.cs"
+            },
+             {
+                "hash": "f072d6487dfceee4d784fb3444a52fdf",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeBridge/AnalytiAll.iOSBridge.cs"
+            },
+             {
+                "hash": "b9701dadf991fe30709acf4d4c3bc276",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeBridge/AnalytiAll.tvOSBridge.cs"
+            },
+             {
+                "hash": "fdb514efd7366a109602841799cd1201",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/UI/AnalytiAll.UI.Menu.cs"
+            },
+             {
+                "hash": "53980878e287b7e70eeb1449fa114f5a",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AnalytiAll/AnalytiAll.PostProccess.cs"
+            },
+             {
+                "hash": "2568f81a889816c0e5c92e04bd6708c3",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AnalytiAll/AnalytiAllJSON.cs"
+            },
+             {
+                "hash": "6cddadfba07aaa4df8e0068eb14e9053",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AnalytiAll/AnalytiAllModel.momd/AnalytiAllModel.mom"
+            },
+             {
+                "hash": "3f70ddb57f6d8430657e33d57faacc7b",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/Editor/AnalytiAll/AnalytiAllModel.momd/VersionInfo.plist"
+            },
+             {
+                "hash": "ff31deab50d6d5ac0ebceb236370dd7b",
+                 "parameters": [],
+                 "name": "Assets/Plugins/AnalytiAllOSX.bundle/Contents/Info.plist"
+            },
+             {
+                "hash": "c194068ce28c48d03649837e82198bef",
+                 "parameters": [],
+                 "name": "Assets/Plugins/AnalytiAllOSX.bundle/Contents/MacOS/AnalytiAllOSX"
+            },
+             {
+                "hash": "c48c1d9c6cf982c32580a9c58b0cce51",
+                 "parameters": [],
+                 "name": "Assets/Plugins/AnalytiAllOSX.bundle/Contents/_CodeSignature/CodeResources"
+            },
+             {
+                "hash": "ed580f73b60e3920f5bdef9e444ca5db",
+                 "parameters": [],
+                 "name": "Assets/Plugins/iOS/am_analytics.a"
+            },
+             {
+                "hash": "36bf1731a93a275f219a962eafba3213",
+                 "parameters": [],
+                 "name": "Assets/Plugins/tvOS/am_analytics.a"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMAnalytics/AMAnalytics.prefab"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMAnalytics/Resources/CustomCode/EventManager.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMAnalytics/src/NativeInfo.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/StreamingAssets/am_analytics_config.txt"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeInfo.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AnalytiAll/src/NativeBridge/NativeInfo.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMAnalytics/AMAnalytics.EventManager.cs"
+            }
+        ],
+         "display_type": "extended",
+         "version": "4.3.23"
+    },
+     {
+        "permitted_versions": [
+            "1.8.7"
+        ],
+         "mandatory": false,
+         "old_names": [
+            "AMLogger"
+        ],
+         "depends": [],
+         "name": "AM Logger",
+         "build_types": [
+            "standard"
+        ],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/am-logger/tree/master",
+         "files": [
+            {
+                "hash": "4c2088a71bbadf1f9d5cac0576558996",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMLogger/AMLogger.prefab"
+            },
+             {
+                "hash": "b9ef1b9db0400292c2115334a16042bf",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMLogger/Resources/CustomCode/AMLoggerConsole.cs"
+            },
+             {
+                "hash": "e6e60f6179df556f0eaaaf16e5549065",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMLogger/Resources/CustomCode/AMLoggerConsoleInspectorGUI.cs"
+            },
+             {
+                "hash": "0cc65dd8c3dc9cbc2f6437a97ab9d5ef",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMLogger/Resources/Image/checkbox_false.bytes"
+            },
+             {
+                "hash": "1fa23f5f2ebdb97958fed1f1812cb181",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMLogger/Resources/Image/checkbox_true.bytes"
+            },
+             {
+                "hash": "c5d877ebeb65d912aff2a724d6da82cf",
+                 "parameters": [],
+                 "name": "Assets/AMPlugins/AMLogger/src/AMLogger.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/AMUnityMacLogging.bundle/Contents/Info.plist"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Plugins/AMUnityMacLogging.bundle/Contents/MacOS/AMUnityMacLogging"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMLogger/Resources/Image/error.bytes"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMLogger/Resources/Image/info.bytes"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/AMLogger/Resources/Image/warning.bytes"
+            }
+        ],
+         "display_type": "extended",
+         "version": "1.8.7"
+    },
+     {
+        "permitted_versions": [
+            "2.0.6"
+        ],
+         "mandatory": false,
+         "old_names": [
+            "AMUtils"
+        ],
+         "depends": [
+            {
+                "mod": ">=",
+                 "name": "AM Logger",
+                 "version": "1.8.3"
+            }
+        ],
+         "name": "AM Utils",
+         "build_types": [],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/am-utils/tree/master",
+         "files": [
+            {
+                "hash": "27379cb2eff821d717cee438848186a7",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMUtils/src/AMFiles.cs"
+            },
+             {
+                "hash": "69c10b11b1ca4a75856338e041a7f6bc",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMUtils/src/AMJSON.cs"
+            },
+             {
+                "hash": "ed3c11524a319550c716f2cdfb649389",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMUtils/src/AMJSONObject.cs"
+            },
+             {
+                "hash": "f6eab8594d652069265aaa22b07e15cc",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMUtils/src/AMNetwork.cs"
+            },
+             {
+                "hash": "8af40589fa75831363c5fcc17408b1b3",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/AMUtils/src/AMSimpleJSON.cs"
+            }
+        ],
+         "display_type": "extended",
+         "version": "2.0.6"
+    },
+     {
+        "permitted_versions": [
+            "1.1.3"
+        ],
+         "mandatory": true,
+         "old_names": [],
+         "depends": [
+            {
+                "mod": ">=",
+                 "name": "AM Configs Parser",
+                 "version": "4.2.8"
+            }
+        ],
+         "name": "Custom Quality Setup",
+         "build_types": [],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/custom-quality-setup/tree/master",
+         "files": [
+            {
+                "hash": "5eef0fcf6eee9154d15d5d0bce246b69",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/CustomQualitySetup/Prefabs/CustomQualitySetup.prefab"
+            },
+             {
+                "hash": "17c64fb574ff2564133cced5e6564552",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/CustomQualitySetup/Resources/CustomCode/CustomQualitySetup.cs"
+            },
+             {
+                "hash": "a122db7923b87a0dc98086e345b44b98",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/CustomQualitySetup/Resources/CustomCode/CustomQualitySetupInspectorGUI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/CustomQualitySetup/src/CustomQualitySetupEditor.cs"
+            }
+        ],
+         "display_type": "extended",
+         "version": "1.1.3"
+    },
+     {
+        "permitted_versions": [
+            "1.12.18"
+        ],
+         "mandatory": true,
+         "old_names": [],
+         "depends": [
+            {
+                "mod": ">=",
+                 "name": "AM Events",
+                 "version": "4.13.15"
+            },
+             {
+                "mod": ">=",
+                 "name": "AM Configs Parser",
+                 "version": "4.2.9"
+            },
+             {
+                "mod": ">=",
+                 "name": "AnalytiAll",
+                 "version": "4.3.23"
+            },
+             {
+                "mod": ">=",
+                 "name": "AM Logger",
+                 "version": "1.8.7"
+            },
+             {
+                "mod": ">=",
+                 "name": "AM Utils",
+                 "version": "2.0.6"
+            },
+             {
+                "mod": ">=",
+                 "name": "Custom Quality Setup",
+                 "version": "1.1.3"
+            }
+        ],
+         "name": "Custom Resources Manager",
+         "build_types": [
+            "standard"
+        ],
+         "url": "http://pgit.digital-ecosystems.ru/unity-plugins/custom-resources-manager/tree/master",
+         "files": [
+            {
+                "hash": "8f4c2e6a6c76e35c37b8e9f93575166e",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/CustomCode/SceneCustomCode.unity"
+            },
+             {
+                "hash": "272567fd9c45b8add23c777c2814d47b",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/CustomResourcesManager/CustomResourcesManager.cs"
+            },
+             {
+                "hash": "db0332ae66144cd01a64decbb5e87e4c",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/CustomResourcesManager/CustomResourcesManager.prefab"
+            },
+             {
+                "hash": "c83386ea7aa28880c9d3f732ebabd06c",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/CustomResourcesManager/CustomResourcesManagerAssetBundles.cs"
+            },
+             {
+                "hash": "a6c5367316bd7bb9a3231252d64dff2b",
+                 "parameters": [
+                    "unique"
+                ],
+                 "name": "Assets/AMPlugins/CustomResourcesManager/CustomResourcesManagerInspectorGUI.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Resources/CustomCode/FullScreenBannerCustom.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Resources/Prefabs/CustomResourcesManager.prefab"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/Template/Scripts/CustomResourcesManager.cs"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/customcode_config.txt"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/CustomCode/customcode_config.txt"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/SceneCustomCode.unity"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/CustomResourcesManager/SceneCustomCode.unity"
+            },
+             {
+                "hash": "",
+                 "parameters": [
+                    "outdated"
+                ],
+                 "name": "Assets/AMPlugins/CustomResourcesManager/CustomResourcesManagerEditor.cs"
+            }
+        ],
+         "display_type": "extended",
+         "version": "1.12.18"
+    }
+]
